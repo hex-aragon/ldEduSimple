@@ -1,3 +1,6 @@
 [submodule "ld_edu_program/lib/forge-std"]
 	path = ld_edu_program/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ld_edu_program/lib/openzeppelin-contracts"]
+	path = ld_edu_program/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
